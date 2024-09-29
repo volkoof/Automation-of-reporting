@@ -1,0 +1,11 @@
+name: analytics
+channels:
+  - conda-forge
+  - defaults
+dependencies:
+  - python=3.10.6
+  - pandas
+  - numpy
+  - matplotlib
+  - ipykernel
+  - openpyxl
